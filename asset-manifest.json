@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.820d962e.chunk.css",
+    "main.js": "/static/js/main.791d443b.chunk.js",
+    "main.js.map": "/static/js/main.791d443b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8ee016f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8ee016f.js.map",
+    "static/js/2.dc72fca0.chunk.js": "/static/js/2.dc72fca0.chunk.js",
+    "static/js/2.dc72fca0.chunk.js.map": "/static/js/2.dc72fca0.chunk.js.map",
+    "static/js/3.81dfefe8.chunk.js": "/static/js/3.81dfefe8.chunk.js",
+    "static/js/3.81dfefe8.chunk.js.map": "/static/js/3.81dfefe8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.820d962e.chunk.css.map": "/static/css/main.820d962e.chunk.css.map",
+    "static/js/2.dc72fca0.chunk.js.LICENSE.txt": "/static/js/2.dc72fca0.chunk.js.LICENSE.txt",
+    "static/media/BBS.cd52e5db.png": "/static/media/BBS.cd52e5db.png",
+    "static/media/BLACK AIESEC IN USJ LOGO.5006b8df.png": "/static/media/BLACK AIESEC IN USJ LOGO.5006b8df.png",
+    "static/media/BLACK BLUE AIESEC IN USJ LOGO.61f410e8.png": "/static/media/BLACK BLUE AIESEC IN USJ LOGO.61f410e8.png",
+    "static/media/BS.7098ed2a.png": "/static/media/BS.7098ed2a.png",
+    "static/media/WBS.9fe92043.png": "/static/media/WBS.9fe92043.png",
+    "static/media/WHITE AIESEC IN USJ LOGO.be62fae7.png": "/static/media/WHITE AIESEC IN USJ LOGO.be62fae7.png",
+    "static/media/WHITE BLUE AIESEC IN USJ LOGO.490ad755.png": "/static/media/WHITE BLUE AIESEC IN USJ LOGO.490ad755.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8ee016f.js",
+    "static/js/2.dc72fca0.chunk.js",
+    "static/css/main.820d962e.chunk.css",
+    "static/js/main.791d443b.chunk.js"
+  ]
+}
